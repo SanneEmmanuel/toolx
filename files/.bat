@@ -1,0 +1,2 @@
+cscript rxvps.vbs
+pause
